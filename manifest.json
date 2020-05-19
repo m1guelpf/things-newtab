@@ -1,0 +1,13 @@
+  {
+  	"name": "Things New Tab",
+  	"version": "1.0",
+  	"description": "A new tab extension for personal use.",
+  	"chrome_url_overrides": {
+  		"newtab": "newTab/index.html"
+	},
+  	"manifest_version": 2,
+  	"icons": {
+  		"16": "icon.png",
+  		"128": "icon.png"
+  	}
+  }

@@ -1,0 +1,5 @@
+.env
+node_modules
+mix-manifest.json
+newTab/css
+newTab/js
